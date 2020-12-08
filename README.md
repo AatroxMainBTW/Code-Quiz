@@ -1,6 +1,21 @@
-# quizz_app
+# Code Quiz
 
-A new Flutter project.
+An Flutter app for Programming quiz
+
+### Preview
+
+- Download this for an preview : [preview.zip](https://github.com/AatroxMainBTW/Code-Quiz/files/5656060/preview.zip)
+
+
+### Contribution
+1. Python icon : <a href="https://icons8.com/icon/13441/python">Python icon by Icons8</a>
+2. Java icon : <a href="https://icons8.com/icon/13679/java">Java icon by Icons8</a>
+3. Js icon : <a href="https://icons8.com/icon/108784/javascript">JavaScript icon by Icons8</a>
+4. C++ icon : <a href="https://icons8.com/icon/40669/c++">C++ icon by Icons8</a>
+5. App icon : made by me on illustrator
+
+
+Feel Free to modify this project or add features
 
 ## Getting Started
 
