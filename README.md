@@ -1,10 +1,14 @@
 # Code Quiz
 
-An Flutter app for Programming quiz with json doc for database
+A Flutter app for Programming quiz with json doc for database
 
 ### Preview
 
 - Download this for an preview : [preview.zip](https://github.com/AatroxMainBTW/Code-Quiz/files/5656060/preview.zip)
+- Apk :
+  - minSdkVersion 16
+  - targetSdkVersion 29
+  - [Appapk.zip](https://github.com/AatroxMainBTW/Code-Quiz/files/5660021/Appapk.zip)
 
 
 ### Contribution
