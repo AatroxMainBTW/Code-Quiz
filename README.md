@@ -1,6 +1,6 @@
 # Code Quiz
 
-An Flutter app for Programming quiz
+An Flutter app for Programming quiz with json doc for database
 
 ### Preview
 
