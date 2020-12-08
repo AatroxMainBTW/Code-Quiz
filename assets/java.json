@@ -1,0 +1,88 @@
+[
+  {
+    "1": "What is a correct syntax to output \"Hello World\" in Java?",
+    "2": "Java is short for \"JavaScript\" ?",
+    "3": "How do you insert COMMENTS in Java code?",
+    "4": "Which data type is used to create a variable that should store text?",
+    "5": "How do you create a variable with the numeric value 5?",
+    "6": "How do you create a variable with the floating number 2.8?",
+    "7": "Which method can be used to find the length of a string",
+    "8": "The value of a string variable can be surrounded by single quotes.",
+    "9": "Which method can be used to return a string in upper case letters?",
+    "10": "Which operator can be used to compare two values?"
+  },
+  {
+    "1": {
+      "a": "print(\"Hello Word\")",
+      "b": "System.out.println(\"Hello Word\")",
+      "c": "echo(\"Hello Word\")",
+      "d": "Console.WriteLine(\"Hello Word\")"
+    },
+    "2": {
+      "a": "true",
+      "b": "false",
+      "c": "No its an Package",
+      "d": "idk"
+    },
+    "3": {
+      "a": "/*",
+      "b": "#",
+      "c": "//",
+      "d": "%%"
+    },
+    "4": {
+      "a": "String",
+      "b": "int",
+      "c": "double",
+      "d": "text"
+    },
+    "5": {
+      "a": "int x = 5",
+      "b": "int 5 x",
+      "c": "int 5 = x",
+      "d": "num x = 5"
+    },
+    "6": {
+      "a": "int x = 2.8f",
+      "b": "float x = 2.8f",
+      "c": "byte x = 2.8f",
+      "d": "x = 2.8f"
+    },
+    "7": {
+      "a": "length()",
+      "b": "getSize()",
+      "c": "getLength()",
+      "d": "len()"
+    },
+    "8": {
+      "a": "True",
+      "b": "False",
+      "c": "No its like this %text%",
+      "d": "idk"
+    },
+    "9": {
+      "a": "upperCase()",
+      "b": "toUpperCase()",
+      "c": "touppercase()",
+      "d": "tuc()"
+    },
+    "10": {
+      "a": "==",
+      "b": "=",
+      "c": "><",
+      "d": "<>"
+    }
+  },
+  {
+    "1": "System.out.println(\"Hello Word\")",
+    "2": "false",
+    "3": "//",
+    "4": "String",
+    "5": "int x = 5",
+    "6": "float x = 2.8f",
+    "7": "length()",
+    "8": "True",
+    "9": "toUpperCase()",
+    "10": "=="
+  }
+]

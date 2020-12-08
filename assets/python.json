@@ -1,0 +1,88 @@
+[
+  {
+    "1": "var = \"James\" * 2  * 3\nprint(var) ",
+    "2": "Which operator has higher precedence in the following list ? ",
+    "3": "for x in range(0.5, 5.5, 0.5):\n  print(x)  ",
+    "4": "Which of the following is a print Function in Python ? ",
+    "5": "def calculate (num1, num2=4):\n  res = num1 * num2\n  print(res)\ncalculate(5, 6)",
+    "6": "p, q, r = 10, 20 ,30\nprint(p, q, r)",
+    "7": "str = \"pynative\"\nprint (str[1:3])",
+    "8": "x = 36 / 4 * (3 +  2) * 4 + 2\nprint(x)",
+    "9": "sampleSet = {\"Jodi\", \"Eric\", \"Garry\"}\nsampleSet.add(1, \"Vicki\")\nprint(sampleSet)",
+    "10": "listOne = [20, 40, 60, 80]\nlistTwo = [20, 40, 60, 80]\nprint(listOne == listTwo)\nprint(listOne is listTwo)"
+  },
+  {
+    "1": {
+      "a": "JamesJamesJamesJamesJamesJames",
+      "b": "JamesJamesJamesJamesJames",
+      "c": "Error: invalid syntax",
+      "d": "James6"
+    },
+    "2": {
+      "a": "% Modulus",
+      "b": "& BitWise AND",
+      "c": "**, Exponent",
+      "d": "> Comparison"
+    },
+    "3": {
+      "a": "[0.5, 1, 1.5, 2, 2.5, 3, 3.5, 4, 4.5, 5, 5.5]",
+      "b": "[0.5, 1, 1.5, 2, 2.5, 3, 3.5, 4, 4.5, 5]",
+      "c": "The Program executed with errors",
+      "d": "[0.5, 5]"
+    },
+    "4": {
+      "a": "cout",
+      "b": "print",
+      "c": "println",
+      "d": "stderr"
+    },
+    "5": {
+      "a": " 20",
+      "b": "The program executed with errors",
+      "c": "30",
+      "d": "6"
+    },
+    "6": {
+      "a": "10 20",
+      "b": "10 20 30",
+      "c": "Error: invalid syntax",
+      "d": "30"
+    },
+    "7": {
+      "a": "py",
+      "b": "yn",
+      "c": "pyn",
+      "d": "yna"
+    },
+    "8": {
+      "a": "182.0",
+      "b": "37",
+      "c": "117",
+      "d": "The Program executed with errors"
+    },
+    "9": {
+      "a": "{‘Vicki’,‘Jodi’,‘Garry’,‘Eric’}",
+      "b": "{‘Jodi’,‘Vicki’,‘Garry’,‘Eric’}",
+      "c": "The program executed with error",
+      "d": "{‘Jodi’,‘Garry’,‘Eric’}"
+    },
+    "10": {
+      "a": "True&True",
+      "b": "True&False",
+      "c": "False&True",
+      "d": "False&False"
+    }
+  },
+  {
+    "1": "JamesJamesJamesJamesJamesJames",
+    "2": "**, Exponent",
+    "3": "The Program executed with errors",
+    "4": "print",
+    "5": "30",
+    "6": "10 20 30",
+    "7": "yn",
+    "8": "182.0",
+    "9": "The program executed with error",
+    "10": "True&False"
+  }
+]

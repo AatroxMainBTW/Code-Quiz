@@ -1,0 +1,88 @@
+[
+  {
+    "1": "const mySet = new Set([{ a: 1 }, { a: 1 }]);\nconst result = [...mySet];\nconsole.log(result);",
+    "2": "How do you write \"Hello World\" in an alert box?",
+    "3": "How do you create a function in JavaScript?",
+    "4": "const arr1 = [{ firstName: 'James' }];\nconst arr2 = [...arr1];\narr2[0].firstName = 'Jonah';\nconsole.log(arr1);",
+    "5": "const map = ['a', 'b', 'c'].map.bind([1, 2, 3]);\nmap(el => console.log(el));",
+    "6": "const arr = [...new Set([3, 1, 2, 3, 4])];\nconsole.log(arr.length, arr[2]);",
+    "7": "Inside which HTML element do we put the JavaScript?",
+    "8": "The external JavaScript file must contain the <script> tag ?",
+    "9": "Where is the correct place to insert a JavaScript?",
+    "10": "What is the correct syntax for referring to an external script called \"xxx.js\"?"
+  },
+  {
+    "1": {
+      "a": "[{a: 1}, {a: 1}]",
+      "b": "[1,1]",
+      "c": "[1]",
+      "d": "[{a: 1}]"
+    },
+    "2": {
+      "a": "msg('Hello World')",
+      "b": "alert('Hello World')",
+      "c": "alertBox('Hello World')",
+      "d": "msgbox('Hello World')"
+    },
+    "3": {
+      "a": "function myFunction()",
+      "b": "function:myFunction()",
+      "c": "function = myFunction()",
+      "d": "def myFunction():"
+    },
+    "4": {
+      "a": "[{ firstName: \"Jonah\" }]",
+      "b": "[{ firstName: \"James\" }]",
+      "c": "error",
+      "d": "James"
+    },
+    "5": {
+      "a": "1 2 3",
+      "b": "The program executed with errors",
+      "c": "a b c",
+      "d": "[{ a:\"1\"},{ b:\"2\"},{ c:\"3\"}]"
+    },
+    "6": {
+      "a": "4 2",
+      "b": "5 2",
+      "c": "4 1",
+      "d": "5 1"
+    },
+    "7": {
+      "a": "<scripting>",
+      "b": "<script>",
+      "c": "<javascripting>",
+      "d": "<javascript>"
+    },
+    "8": {
+      "a": "True",
+      "b": "False",
+      "c": "Same thing",
+      "d": "it depends"
+    },
+    "9": {
+      "a": "The <body>",
+      "b": "The <head>",
+      "c": "both <head> and <body>",
+      "d": "outside of <html>"
+    },
+    "10": {
+      "a": "<script src='xxs.js'>",
+      "b": "<script name='xxs.js'>",
+      "c": "<script ref='xxs.js'>",
+      "d": "<script href='xxs.js'>"
+    }
+  },
+  {
+    "1": "[{a: 1}, {a: 1}]",
+    "2": "alert('Hello World')",
+    "3": "function = myFunction()",
+    "4": "[{ firstName: \"Jonah\" }]",
+    "5": "1 2 3",
+    "6": "4 2",
+    "7": "<script>",
+    "8": "False",
+    "9": "both <head> and <body>",
+    "10": "<script src='xxs.js'>"
+  }
+]
